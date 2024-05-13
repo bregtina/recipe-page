@@ -19,7 +19,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Screenshot
 
-![](recipe-page-desktop-screenshot.png)
+![](https://github.com/bregtina/recipe-page/blob/main/public/recipe-page-desktop-screenshot.png))
 ![](recipe-page-mobile-screenshot.png)
 
 ### Links
