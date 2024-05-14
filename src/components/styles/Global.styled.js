@@ -2,7 +2,7 @@ import { createGlobalStyle } from 'styled-components';
 
 const GlobalStyles = createGlobalStyle`
 
-   * {
+  * {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
@@ -10,7 +10,7 @@ const GlobalStyles = createGlobalStyle`
 
   :root {
     font-family: ${({ theme }) => theme.font.family.primaryFont}, sans-serif;
-    font-size: ${({ theme }) => theme.font.size};
+    font-size: 100%;
     font-weight: 400;
   }
 
